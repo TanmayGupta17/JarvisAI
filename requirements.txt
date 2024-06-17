@@ -1,0 +1,10 @@
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+webbrowser==0.0.1
+pywhatkit==5.4
+smtplib==0.3.0
+email==6.0.0a1
+requests==2.31.0
+shlex==3.8
+google-generativeai==0.2.0
+pyaudio==0.2.13
